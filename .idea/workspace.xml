@@ -31,14 +31,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../DesignPatterns/tests/Creational/AbstractFactory/AbstractFactoryTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="519">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="e#144#199#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../DesignPatterns/README.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="26">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../DesignPatterns/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -89,6 +110,8 @@
         <option value="$PROJECT_DIR$/../DesignPatterns/app/Creational/AbstractFactory/JsonFactory.php" />
         <option value="$PROJECT_DIR$/../DesignPatterns/app/Creational/AbstractFactory/HtmlText.php" />
         <option value="$PROJECT_DIR$/../DesignPatterns/tests/Creational/AbstractFactory/AbstractFactoryTest.php" />
+        <option value="$PROJECT_DIR$/../DesignPatterns/.gitignore" />
+        <option value="$PROJECT_DIR$/../DesignPatterns/README.MD" />
       </list>
     </option>
   </component>
@@ -108,6 +131,24 @@
             <path>
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Creational" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Creational" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,14 +227,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547539585181</updated>
-      <workItem from="1547539586488" duration="5357000" />
+      <workItem from="1547539586488" duration="5827000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AbstractFactoryTest_(1) - 2019.01.15 at 20h 39m 45s.xml">
-      <configuration name="AbstractFactoryTest (1)" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="AbstractFactoryTest_(1) - 2019.01.15 at 20h 50m 32s.xml">
       <configuration name="AbstractFactoryTest (1)" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
@@ -221,9 +259,12 @@
     <history-entry file="AbstractFactoryTest_(1) - 2019.01.15 at 21h 00m 55s.xml">
       <configuration name="AbstractFactoryTest (1)" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="AbstractFactoryTest_(1) - 2019.01.15 at 21h 04m 25s.xml">
+      <configuration name="AbstractFactoryTest (1)" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5357000" />
+    <option name="totallyTimeSpent" value="5827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -236,7 +277,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32951543" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32951543" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32994923" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2863436" />
@@ -448,11 +489,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../DesignPatterns/tests/Creational/AbstractFactory/AbstractFactoryTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="519">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="e#144#199#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DesignPatterns/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DesignPatterns/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="26">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
