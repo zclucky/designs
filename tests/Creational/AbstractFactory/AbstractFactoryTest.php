@@ -5,7 +5,7 @@
  * DateTime: 2019-01-15 16:31
  */
 
-namespace DesignPatterns\Creational\AbstractFactory\Tests;
+namespace DesignPatterns\Tests\Creational\AbstractFactory;
 
 use DesignPatterns\Creational\AbstractFactory\JsonText;
 use DesignPatterns\Creational\AbstractFactory\HtmlText;
