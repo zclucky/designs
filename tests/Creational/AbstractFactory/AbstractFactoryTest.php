@@ -13,7 +13,6 @@ use DesignPatterns\Creational\AbstractFactory\HtmlFactory;
 use DesignPatterns\Creational\AbstractFactory\JsonFactory;
 use PHPUnit\Framework\TestCase;
 
-require_once '../../../vendor/autoload.php';
 
 class AbstractFactoryTest extends TestCase
 {

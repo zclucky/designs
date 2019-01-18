@@ -14,7 +14,6 @@ use DesignPatterns\Creational\Builder\Parts\Truck;
 use DesignPatterns\Creational\Builder\TruckBuilder;
 use PHPUnit\Framework\TestCase;
 
-require_once '../../../vendor/autoload.php';
 
 class DirectorTest extends TestCase
 {

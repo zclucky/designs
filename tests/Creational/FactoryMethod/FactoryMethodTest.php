@@ -13,7 +13,6 @@ use DesignPatterns\Creational\FactoryMethod\StdoutLogger;
 use DesignPatterns\Creational\FactoryMethod\StdoutLoggerFactory;
 use PHPUnit\Framework\TestCase;
 
-require_once '../../../vendor/autoload.php';
 
 class FactoryMethodTest extends TestCase
 {

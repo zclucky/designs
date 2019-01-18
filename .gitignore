@@ -2,3 +2,4 @@ vendor/
 .idea/
 tests/*.cache
 runtime/
+.phpunit.result.cache
